@@ -42,6 +42,6 @@ When I'm not working with data, I enjoy Horror Podcast, Waching Anime. I love th
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/Data%20Analysis-Expert-4ECDC4?style=flat" alt="Data Analysis Skill Badge">
-  <img src="https://img.shields.io/badgeDashboard%20Development-Expert-45B7D1?style=flat" alt="Dashboard Development Skill Badge">
+  <img src="https://img.shields.io/badge/Dashboard%20Development-Expert-45B7D1?style=flat" alt="Dashboard Development Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
